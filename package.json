@@ -1,0 +1,21 @@
+{
+  "name": "module_08_nolmap25573_pto2508_groupa_noluthando-maphanga_sdf05",
+  "version": "1.0.0",
+  "description": "Welcome to your **Tailwind Refactor Challenge!** This project is focused on applying Tailwind’s **utility-first approach** to design a fully responsive website footer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noluthando-Maphanga/Module_08_NOLMAP25573_PTO2508_GroupA_Noluthando-Maphanga_SDF05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Noluthando-Maphanga/Module_08_NOLMAP25573_PTO2508_GroupA_Noluthando-Maphanga_SDF05/issues"
+  },
+  "homepage": "https://github.com/Noluthando-Maphanga/Module_08_NOLMAP25573_PTO2508_GroupA_Noluthando-Maphanga_SDF05#readme"
+}
